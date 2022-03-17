@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+a {
+  display: inline-block;
+  transition: .3s;
+  font-weight:bold;
+  text-decoration:none;
+}
+a:hover {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
